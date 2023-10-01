@@ -22,7 +22,7 @@ body {
     border-color: #ffffff;
     border: 5px;
     position: absolute;
-    top: 36.9rem;
+    top: 41rem;
 }
 h1 {
     color: white;
@@ -37,7 +37,7 @@ hr {
 }
 .day {
     position: absolute;
-    top: 32.5rem;
+    top: 36.5rem;
     padding-left: 12.6rem;
 }
 .pad {
@@ -47,10 +47,10 @@ hr {
 .three {
     position: absolute;
     padding-left: 14rem;
-    top: 32.5rem;
+    top: 36.5rem;
 }
 .time {
     position: absolute;
-    top: 32.5rem;
+    top: 36.5rem;
     padding-left: 1.2rem;
 }
